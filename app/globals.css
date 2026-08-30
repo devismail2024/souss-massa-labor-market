@@ -1,0 +1,88 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --bg-page: #F8F9FA;
+    --bg-surface: #FFFFFF;
+    --bg-surface-elevated: #F1F3F5;
+    --bg-surface-subtle: #F4F6F8;
+    
+    --border-subtle: #E5E7EB;
+    --border-strong: #D1D5DB;
+    --border-focus: #0F172A;
+    
+    --text-primary: #0F172A;
+    --text-secondary: #475569;
+    --text-muted: #64748B;
+    --text-inverse: #FFFFFF;
+    
+    --color-accent: #B45309; /* Souss warm ochre */
+    --color-accent-blue: #1D4ED8;
+    --color-accent-emerald: #059669;
+    --color-accent-coral: #E11D48;
+    
+    --chart-grid: #E2E8F0;
+    --chart-axis: #94A3B8;
+  }
+
+  .dark {
+    --bg-page: #090D16;
+    --bg-surface: #101624;
+    --bg-surface-elevated: #161F33;
+    --bg-surface-subtle: #121A2B;
+    
+    --border-subtle: #1E293B;
+    --border-strong: #334155;
+    --border-focus: #38BDF8;
+    
+    --text-primary: #F8FAFC;
+    --text-secondary: #CBD5E1;
+    --text-muted: #94A3B8;
+    --text-inverse: #0F172A;
+    
+    --color-accent: #F59E0B;
+    --color-accent-blue: #38BDF8;
+    --color-accent-emerald: #34D399;
+    --color-accent-coral: #FB7185;
+    
+    --chart-grid: #1E293B;
+    --chart-axis: #64748B;
+  }
+
+  body {
+    background-color: var(--bg-page);
+    color: var(--text-primary);
+    font-feature-settings: 'cv02', 'cv03', 'cv04', 'cv11', 'tnum' 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+}
+
+/* Tabular numbers for statistical data */
+.tnum {
+  font-variant-numeric: tabular-nums;
+}
+
+/* Custom Scrollbar for dense analytical tables */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(148, 163, 184, 0.3);
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(148, 163, 184, 0.6);
+}
+
+/* Custom subtle grid background for observatory aesthetic */
+.observatory-grid {
+  background-size: 32px 32px;
+  background-image: 
+    linear-gradient(to right, rgba(148, 163, 184, 0.05) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(148, 163, 184, 0.05) 1px, transparent 1px);
+}

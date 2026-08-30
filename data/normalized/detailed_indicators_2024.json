@@ -1,0 +1,2194 @@
+{
+  "metadata": {
+    "title": "Indicateurs désagrégés détaillés - Région Souss-Massa 2024",
+    "source": "HCP (ENE 2024)",
+    "year": 2024,
+    "total_tables": 47
+  },
+  "tables": [
+    {
+      "title": "La population en âge de travailler par type d'activité (3) et par milieu",
+      "startRow": 1,
+      "items": [
+        {
+          "category": "Actif occupé",
+          "urban": 542,
+          "urban_sign": "",
+          "rural": 275,
+          "rural_sign": "",
+          "total": 817,
+          "total_sign": ""
+        },
+        {
+          "category": "Chômeur",
+          "urban": 93,
+          "urban_sign": "",
+          "rural": 22,
+          "rural_sign": "",
+          "total": 114,
+          "total_sign": ""
+        },
+        {
+          "category": "Inactif",
+          "urban": 868,
+          "urban_sign": "",
+          "rural": 511,
+          "rural_sign": "",
+          "total": 1379,
+          "total_sign": ""
+        },
+        {
+          "category": "Ensemble",
+          "urban": 1503,
+          "urban_sign": "",
+          "rural": 807,
+          "rural_sign": "",
+          "total": 2310,
+          "total_sign": ""
+        }
+      ],
+      "metadata": {
+        "champ": "Population de 15 ans et plus, Région de Souss-Massa",
+        "reference": "2024",
+        "unit": "Millier",
+        "source": "HCP (ENE)"
+      }
+    },
+    {
+      "title": "Le taux d'activité par sexe et par milieu",
+      "startRow": 13,
+      "items": [
+        {
+          "category": "Masculin",
+          "urban": 67.8,
+          "urban_sign": "",
+          "rural": 67.1,
+          "rural_sign": "",
+          "total": 67.5,
+          "total_sign": ""
+        },
+        {
+          "category": "Féminin",
+          "urban": 17.2,
+          "urban_sign": "",
+          "rural": 9.9,
+          "rural_sign": "",
+          "total": 14.6,
+          "total_sign": ""
+        },
+        {
+          "category": "Ensemble",
+          "urban": 42.2,
+          "urban_sign": "",
+          "rural": 36.7,
+          "rural_sign": "",
+          "total": 40.3,
+          "total_sign": ""
+        }
+      ],
+      "metadata": {
+        "champ": "Population de 15 ans et plus, Région de Souss-Massa",
+        "reference": "2024",
+        "unit": "%",
+        "source": "HCP (ENE)"
+      }
+    },
+    {
+      "title": "Le taux d'activité par âge (4) et par milieu",
+      "startRow": 24,
+      "items": [
+        {
+          "category": "15-24 ans",
+          "urban": 18.6,
+          "urban_sign": "",
+          "rural": 16.3,
+          "rural_sign": "",
+          "total": 17.8,
+          "total_sign": ""
+        },
+        {
+          "category": "25-34 ans",
+          "urban": 58.5,
+          "urban_sign": "",
+          "rural": 50.7,
+          "rural_sign": "",
+          "total": 56.3,
+          "total_sign": ""
+        },
+        {
+          "category": "35-44 ans",
+          "urban": 56.5,
+          "urban_sign": "",
+          "rural": 51.6,
+          "rural_sign": "",
+          "total": 55,
+          "total_sign": ""
+        },
+        {
+          "category": "45 ans ou plus",
+          "urban": 36.9,
+          "urban_sign": "",
+          "rural": 35.3,
+          "rural_sign": "",
+          "total": 36.3,
+          "total_sign": ""
+        },
+        {
+          "category": "Ensemble",
+          "urban": 42.2,
+          "urban_sign": "",
+          "rural": 36.7,
+          "rural_sign": "",
+          "total": 40.3,
+          "total_sign": ""
+        }
+      ],
+      "metadata": {
+        "champ": "Population de 15 ans et plus, Région de Souss-Massa",
+        "reference": "2024",
+        "unit": "%",
+        "source": "HCP (ENE)"
+      }
+    },
+    {
+      "title": "Le taux d'activité par diplôme (2) et par milieu",
+      "startRow": 37,
+      "items": [
+        {
+          "category": "Diplôme quelconque",
+          "urban": 47.8,
+          "urban_sign": "",
+          "rural": 39.6,
+          "rural_sign": "",
+          "total": 45.7,
+          "total_sign": ""
+        },
+        {
+          "category": "Aucun diplôme",
+          "urban": 34.8,
+          "urban_sign": "",
+          "rural": 35.2,
+          "rural_sign": "",
+          "total": 34.9,
+          "total_sign": ""
+        },
+        {
+          "category": "Ensemble",
+          "urban": 42.2,
+          "urban_sign": "",
+          "rural": 36.7,
+          "rural_sign": "",
+          "total": 40.3,
+          "total_sign": ""
+        }
+      ],
+      "metadata": {
+        "champ": "Population de 15 ans et plus, Région de Souss-Massa",
+        "reference": "2024",
+        "unit": "%",
+        "source": "HCP (ENE)"
+      }
+    },
+    {
+      "title": "Le taux d'activité par diplôme (3) et par milieu",
+      "startRow": 48,
+      "items": [
+        {
+          "category": "Diplôme de niveau supérieur",
+          "urban": 57.8,
+          "urban_sign": "",
+          "rural": 52.5,
+          "rural_sign": "",
+          "total": 57.1,
+          "total_sign": ""
+        },
+        {
+          "category": "Diplôme de niveau moyen",
+          "urban": 42.4,
+          "urban_sign": "",
+          "rural": 37.1,
+          "rural_sign": "",
+          "total": 40.8,
+          "total_sign": ""
+        },
+        {
+          "category": "Aucun diplôme",
+          "urban": 34.8,
+          "urban_sign": "",
+          "rural": 35.2,
+          "rural_sign": "",
+          "total": 34.9,
+          "total_sign": ""
+        },
+        {
+          "category": "Ensemble",
+          "urban": 42.2,
+          "urban_sign": "",
+          "rural": 36.7,
+          "rural_sign": "",
+          "total": 40.3,
+          "total_sign": ""
+        }
+      ],
+      "metadata": {
+        "champ": "Population de 15 ans et plus, Région de Souss-Massa",
+        "reference": "2024",
+        "unit": "%",
+        "source": "HCP (ENE)"
+      }
+    },
+    {
+      "title": "Le taux d'emploi par sexe et par milieu",
+      "startRow": 60,
+      "items": [
+        {
+          "category": "Masculin",
+          "urban": 60,
+          "urban_sign": "",
+          "rural": 62.7,
+          "rural_sign": "",
+          "total": 60.9,
+          "total_sign": ""
+        },
+        {
+          "category": "Féminin",
+          "urban": 12.7,
+          "urban_sign": "",
+          "rural": 8.7,
+          "rural_sign": "",
+          "total": 11.2,
+          "total_sign": ""
+        },
+        {
+          "category": "Ensemble",
+          "urban": 36.1,
+          "urban_sign": "",
+          "rural": 34,
+          "rural_sign": "",
+          "total": 35.4,
+          "total_sign": ""
+        }
+      ],
+      "metadata": {
+        "champ": "Population de 15 ans et plus, Région de Souss-Massa",
+        "reference": "2024",
+        "unit": "%",
+        "source": "HCP (ENE)"
+      }
+    },
+    {
+      "title": "Le taux d'emploi par âge (4) et par milieu",
+      "startRow": 71,
+      "items": [
+        {
+          "category": "15-24 ans",
+          "urban": 10.5,
+          "urban_sign": "",
+          "rural": 11.2,
+          "rural_sign": "",
+          "total": 10.8,
+          "total_sign": ""
+        },
+        {
+          "category": "25-34 ans",
+          "urban": 44.2,
+          "urban_sign": "",
+          "rural": 46.3,
+          "rural_sign": "",
+          "total": 44.8,
+          "total_sign": ""
+        },
+        {
+          "category": "35-44 ans",
+          "urban": 52.3,
+          "urban_sign": "",
+          "rural": 49.5,
+          "rural_sign": "",
+          "total": 51.4,
+          "total_sign": ""
+        },
+        {
+          "category": "45 ans ou plus",
+          "urban": 35.6,
+          "urban_sign": "",
+          "rural": 34.3,
+          "rural_sign": "",
+          "total": 35.1,
+          "total_sign": ""
+        },
+        {
+          "category": "Ensemble",
+          "urban": 36.1,
+          "urban_sign": "",
+          "rural": 34,
+          "rural_sign": "",
+          "total": 35.4,
+          "total_sign": ""
+        }
+      ],
+      "metadata": {
+        "champ": "Population de 15 ans et plus, Région de Souss-Massa",
+        "reference": "2024",
+        "unit": "%",
+        "source": "HCP (ENE)"
+      }
+    },
+    {
+      "title": "Le taux d'emploi par diplôme (2) et par milieu",
+      "startRow": 84,
+      "items": [
+        {
+          "category": "Diplôme quelconque",
+          "urban": 38.3,
+          "urban_sign": "",
+          "rural": 34.6,
+          "rural_sign": "",
+          "total": 37.4,
+          "total_sign": ""
+        },
+        {
+          "category": "Aucun diplôme",
+          "urban": 33.1,
+          "urban_sign": "",
+          "rural": 33.7,
+          "rural_sign": "",
+          "total": 33.4,
+          "total_sign": ""
+        },
+        {
+          "category": "Ensemble",
+          "urban": 36.1,
+          "urban_sign": "",
+          "rural": 34,
+          "rural_sign": "",
+          "total": 35.4,
+          "total_sign": ""
+        }
+      ],
+      "metadata": {
+        "champ": "Population de 15 ans et plus, Région de Souss-Massa",
+        "reference": "2024",
+        "unit": "%",
+        "source": "HCP (ENE)"
+      }
+    },
+    {
+      "title": "Le taux d'emploi par diplôme (3) et par milieu",
+      "startRow": 95,
+      "items": [
+        {
+          "category": "Diplôme de niveau supérieur",
+          "urban": 42.5,
+          "urban_sign": "",
+          "rural": 39.5,
+          "rural_sign": "",
+          "total": 42.1,
+          "total_sign": ""
+        },
+        {
+          "category": "Diplôme de niveau moyen",
+          "urban": 36.1,
+          "urban_sign": "",
+          "rural": 33.6,
+          "rural_sign": "",
+          "total": 35.3,
+          "total_sign": ""
+        },
+        {
+          "category": "Aucun diplôme",
+          "urban": 33.1,
+          "urban_sign": "",
+          "rural": 33.7,
+          "rural_sign": "",
+          "total": 33.4,
+          "total_sign": ""
+        },
+        {
+          "category": "Ensemble",
+          "urban": 36.1,
+          "urban_sign": "",
+          "rural": 34,
+          "rural_sign": "",
+          "total": 35.4,
+          "total_sign": ""
+        }
+      ],
+      "metadata": {
+        "champ": "Population de 15 ans et plus, Région de Souss-Massa",
+        "reference": "2024",
+        "unit": "%",
+        "source": "HCP (ENE)"
+      }
+    },
+    {
+      "title": "Le sexe des travailleurs par milieu",
+      "startRow": 107,
+      "items": [
+        {
+          "category": "Masculin",
+          "urban": 82.3,
+          "urban_sign": "",
+          "rural": 86.5,
+          "rural_sign": "",
+          "total": 83.7,
+          "total_sign": ""
+        },
+        {
+          "category": "Féminin",
+          "urban": 17.7,
+          "urban_sign": "",
+          "rural": 13.5,
+          "rural_sign": "",
+          "total": 16.3,
+          "total_sign": ""
+        },
+        {
+          "category": "Ensemble",
+          "urban": 100,
+          "urban_sign": "",
+          "rural": 100,
+          "rural_sign": "",
+          "total": 100,
+          "total_sign": ""
+        }
+      ],
+      "metadata": {
+        "champ": "Population active occupée de 15 ans et plus, Région de Souss-Massa",
+        "reference": "2024",
+        "unit": "%",
+        "source": "HCP (ENE)"
+      }
+    },
+    {
+      "title": "L'âge (4) des travailleurs par milieu",
+      "startRow": 118,
+      "items": [
+        {
+          "category": "15-24 ans",
+          "urban": 5.8,
+          "urban_sign": "",
+          "rural": 7.1,
+          "rural_sign": "",
+          "total": 6.2,
+          "total_sign": ""
+        },
+        {
+          "category": "25-34 ans",
+          "urban": 27.9,
+          "urban_sign": "",
+          "rural": 23.3,
+          "rural_sign": "",
+          "total": 26.3,
+          "total_sign": ""
+        },
+        {
+          "category": "35-44 ans",
+          "urban": 30,
+          "urban_sign": "",
+          "rural": 25.4,
+          "rural_sign": "",
+          "total": 28.5,
+          "total_sign": ""
+        },
+        {
+          "category": "45 ans ou plus",
+          "urban": 36.3,
+          "urban_sign": "",
+          "rural": 44.3,
+          "rural_sign": "",
+          "total": 39,
+          "total_sign": ""
+        },
+        {
+          "category": "Ensemble",
+          "urban": 100,
+          "urban_sign": "",
+          "rural": 100,
+          "rural_sign": "",
+          "total": 100,
+          "total_sign": ""
+        }
+      ],
+      "metadata": {
+        "champ": "Population active occupée de 15 ans et plus, Région de Souss-Massa",
+        "reference": "2024",
+        "unit": "%",
+        "source": "HCP (ENE)"
+      }
+    },
+    {
+      "title": "Le diplôme (2) des travailleurs par milieu",
+      "startRow": 131,
+      "items": [
+        {
+          "category": "Diplôme quelconque",
+          "urban": 60.8,
+          "urban_sign": "",
+          "rural": 36.2,
+          "rural_sign": "",
+          "total": 52.6,
+          "total_sign": ""
+        },
+        {
+          "category": "Aucun diplôme",
+          "urban": 39.2,
+          "urban_sign": "",
+          "rural": 63.8,
+          "rural_sign": "",
+          "total": 47.4,
+          "total_sign": ""
+        },
+        {
+          "category": "Ensemble",
+          "urban": 100,
+          "urban_sign": "",
+          "rural": 100,
+          "rural_sign": "",
+          "total": 100,
+          "total_sign": ""
+        }
+      ],
+      "metadata": {
+        "champ": "Population active occupée de 15 ans et plus, Région de Souss-Massa",
+        "reference": "2024",
+        "unit": "%",
+        "source": "HCP (ENE)"
+      }
+    },
+    {
+      "title": "Le diplôme (3) des travailleurs par milieu",
+      "startRow": 142,
+      "items": [
+        {
+          "category": "Diplôme de niveau supérieur",
+          "urban": 23.6,
+          "urban_sign": "",
+          "rural": 6.6,
+          "rural_sign": "",
+          "total": 17.9,
+          "total_sign": ""
+        },
+        {
+          "category": "Diplôme de niveau moyen",
+          "urban": 37.2,
+          "urban_sign": "",
+          "rural": 29.6,
+          "rural_sign": "",
+          "total": 34.7,
+          "total_sign": ""
+        },
+        {
+          "category": "Aucun diplôme",
+          "urban": 39.2,
+          "urban_sign": "",
+          "rural": 63.8,
+          "rural_sign": "",
+          "total": 47.4,
+          "total_sign": ""
+        },
+        {
+          "category": "Ensemble",
+          "urban": 100,
+          "urban_sign": "",
+          "rural": 100,
+          "rural_sign": "",
+          "total": 100,
+          "total_sign": ""
+        }
+      ],
+      "metadata": {
+        "champ": "Population active occupée de 15 ans et plus, Région de Souss-Massa",
+        "reference": "2024",
+        "unit": "%",
+        "source": "HCP (ENE)"
+      }
+    },
+    {
+      "title": "Le statut professionnel (2) des travailleurs par milieu",
+      "startRow": 154,
+      "items": [
+        {
+          "category": "Employé rémunéré",
+          "urban": 97.7,
+          "urban_sign": "",
+          "rural": 93.5,
+          "rural_sign": "",
+          "total": 96.2,
+          "total_sign": ""
+        },
+        {
+          "category": "Employé non rémunéré",
+          "urban": 2.3,
+          "urban_sign": "",
+          "rural": 6.5,
+          "rural_sign": "",
+          "total": 3.8,
+          "total_sign": ""
+        },
+        {
+          "category": "Ensemble",
+          "urban": 100,
+          "urban_sign": "",
+          "rural": 100,
+          "rural_sign": "",
+          "total": 100,
+          "total_sign": ""
+        }
+      ],
+      "metadata": {
+        "champ": "Population active occupée de 15 ans et plus, Région de Souss-Massa",
+        "reference": "2024",
+        "unit": "%",
+        "source": "HCP (ENE)"
+      }
+    },
+    {
+      "title": "Le statut professionnel (3) des travailleurs par milieu",
+      "startRow": 165,
+      "items": [
+        {
+          "category": "Salarié",
+          "urban": 69,
+          "urban_sign": "",
+          "rural": 59.9,
+          "rural_sign": "",
+          "total": 65.9,
+          "total_sign": ""
+        },
+        {
+          "category": "Auto-employé",
+          "urban": 28.7,
+          "urban_sign": "",
+          "rural": 33.5,
+          "rural_sign": "",
+          "total": 30.3,
+          "total_sign": ""
+        },
+        {
+          "category": "Employé non rémunéré",
+          "urban": 2.3,
+          "urban_sign": "",
+          "rural": 6.5,
+          "rural_sign": "",
+          "total": 3.8,
+          "total_sign": ""
+        },
+        {
+          "category": "Ensemble",
+          "urban": 100,
+          "urban_sign": "",
+          "rural": 100,
+          "rural_sign": "",
+          "total": 100,
+          "total_sign": ""
+        }
+      ],
+      "metadata": {
+        "champ": "Population active occupée de 15 ans et plus, Région de Souss-Massa",
+        "reference": "2024",
+        "unit": "%",
+        "source": "HCP (ENE)"
+      }
+    },
+    {
+      "title": "La régularité (4) des travailleurs dans leur emploi par milieu",
+      "startRow": 177,
+      "items": [
+        {
+          "category": "Travailleur régulier à temps plein",
+          "urban": 86.8,
+          "urban_sign": "",
+          "rural": 75,
+          "rural_sign": "",
+          "total": 82.8,
+          "total_sign": ""
+        },
+        {
+          "category": "Travailleur régulier à temps partiel",
+          "urban": 1.1,
+          "urban_sign": "ms",
+          "rural": 2.8,
+          "rural_sign": "ms",
+          "total": 1.7,
+          "total_sign": ""
+        },
+        {
+          "category": "Travailleur occasionnel/saisonnier",
+          "urban": 11.7,
+          "urban_sign": "",
+          "rural": 22.2,
+          "rural_sign": "",
+          "total": 15.2,
+          "total_sign": ""
+        },
+        {
+          "category": "Autre",
+          "urban": 0.4,
+          "urban_sign": "",
+          "rural": 0,
+          "rural_sign": "",
+          "total": 0.3,
+          "total_sign": ""
+        },
+        {
+          "category": "Ensemble",
+          "urban": 100,
+          "urban_sign": "",
+          "rural": 100,
+          "rural_sign": "",
+          "total": 100,
+          "total_sign": ""
+        }
+      ],
+      "metadata": {
+        "champ": "Population active occupée de 15 ans et plus, Région de Souss-Massa",
+        "reference": "2024",
+        "unit": "%",
+        "source": "HCP (ENE)"
+      }
+    },
+    {
+      "title": "Le secteur d'emploi (2) des travailleurs par milieu",
+      "startRow": 190,
+      "items": [
+        {
+          "category": "Public / Semi-public",
+          "urban": 10.1,
+          "urban_sign": "",
+          "rural": 4.4,
+          "rural_sign": "",
+          "total": 8.1,
+          "total_sign": ""
+        },
+        {
+          "category": "Privé",
+          "urban": 89.9,
+          "urban_sign": "",
+          "rural": 95.6,
+          "rural_sign": "",
+          "total": 91.9,
+          "total_sign": ""
+        },
+        {
+          "category": "Ensemble",
+          "urban": 100,
+          "urban_sign": "",
+          "rural": 100,
+          "rural_sign": "",
+          "total": 100,
+          "total_sign": ""
+        }
+      ],
+      "metadata": {
+        "champ": "Population active occupée de 15 ans et plus, Région de Souss-Massa",
+        "reference": "2024",
+        "unit": "%",
+        "source": "HCP (ENE)"
+      }
+    },
+    {
+      "title": "Le secteur d'activité (4) des travailleurs par milieu",
+      "startRow": 201,
+      "items": [
+        {
+          "category": "Agriculture, sylviculture, pêche",
+          "urban": 11.9,
+          "urban_sign": "",
+          "rural": 49.9,
+          "rural_sign": "",
+          "total": 24.7,
+          "total_sign": ""
+        },
+        {
+          "category": "Industrie (y compris artisanat)",
+          "urban": 14.5,
+          "urban_sign": "",
+          "rural": 7,
+          "rural_sign": "",
+          "total": 12,
+          "total_sign": ""
+        },
+        {
+          "category": "BTP",
+          "urban": 12.6,
+          "urban_sign": "",
+          "rural": 16.5,
+          "rural_sign": "",
+          "total": 13.9,
+          "total_sign": ""
+        },
+        {
+          "category": "Services",
+          "urban": 61,
+          "urban_sign": "",
+          "rural": 26.6,
+          "rural_sign": "",
+          "total": 49.4,
+          "total_sign": ""
+        },
+        {
+          "category": "Activités non déterminées",
+          "urban": 0,
+          "urban_sign": "",
+          "rural": 0,
+          "rural_sign": "",
+          "total": 0,
+          "total_sign": ""
+        },
+        {
+          "category": "Ensemble",
+          "urban": 100,
+          "urban_sign": "",
+          "rural": 100,
+          "rural_sign": "",
+          "total": 100,
+          "total_sign": ""
+        }
+      ],
+      "metadata": {
+        "champ": "Population active occupée de 15 ans et plus, Région de Souss-Massa",
+        "reference": "2024",
+        "unit": "%",
+        "source": "HCP (ENE)"
+      }
+    },
+    {
+      "title": "Les travailleurs par secteur d'activité (4) par milieu",
+      "startRow": 215,
+      "items": [
+        {
+          "category": "Agriculture, sylviculture, pêche",
+          "urban": 64,
+          "urban_sign": "",
+          "rural": 137,
+          "rural_sign": "",
+          "total": 202,
+          "total_sign": ""
+        },
+        {
+          "category": "Industrie (y compris artisanat)",
+          "urban": 79,
+          "urban_sign": "",
+          "rural": 19,
+          "rural_sign": "",
+          "total": 98,
+          "total_sign": ""
+        },
+        {
+          "category": "BTP",
+          "urban": 69,
+          "urban_sign": "",
+          "rural": 45,
+          "rural_sign": "",
+          "total": 114,
+          "total_sign": ""
+        },
+        {
+          "category": "Services",
+          "urban": 330,
+          "urban_sign": "",
+          "rural": 73,
+          "rural_sign": "",
+          "total": 404,
+          "total_sign": ""
+        },
+        {
+          "category": "Activités non déterminées",
+          "urban": 0,
+          "urban_sign": "",
+          "rural": 0,
+          "rural_sign": "",
+          "total": 0,
+          "total_sign": ""
+        },
+        {
+          "category": "Ensemble",
+          "urban": 542,
+          "urban_sign": "",
+          "rural": 275,
+          "rural_sign": "",
+          "total": 817,
+          "total_sign": ""
+        }
+      ],
+      "metadata": {
+        "champ": "Population active occupée de 15 ans et plus, Région de Souss-Massa",
+        "reference": "2024",
+        "unit": "Millier",
+        "source": "HCP (ENE)"
+      }
+    },
+    {
+      "title": "Le taux de couverture des travailleurs par une assurance maladie liée à leur emploi, par sexe et par milieu",
+      "startRow": 229,
+      "items": [
+        {
+          "category": "Masculin",
+          "urban": 38.5,
+          "urban_sign": "",
+          "rural": 25.9,
+          "rural_sign": "",
+          "total": 34.1,
+          "total_sign": ""
+        },
+        {
+          "category": "Féminin",
+          "urban": 61.9,
+          "urban_sign": "",
+          "rural": 25.9,
+          "rural_sign": "",
+          "total": 51.9,
+          "total_sign": ""
+        },
+        {
+          "category": "Ensemble",
+          "urban": 42.7,
+          "urban_sign": "",
+          "rural": 25.9,
+          "rural_sign": "",
+          "total": 37,
+          "total_sign": ""
+        }
+      ],
+      "metadata": {
+        "champ": "Population active occupée de 15 ans et plus, Région de Souss-Massa",
+        "reference": "2024",
+        "unit": "%",
+        "source": "HCP (ENE)"
+      }
+    },
+    {
+      "title": "Le taux de couverture des travailleurs par une assurance retraite liée à leur emploi, par sexe et par milieu",
+      "startRow": 240,
+      "items": [
+        {
+          "category": "Masculin",
+          "urban": 35.4,
+          "urban_sign": "",
+          "rural": 21.3,
+          "rural_sign": "",
+          "total": 30.5,
+          "total_sign": ""
+        },
+        {
+          "category": "Féminin",
+          "urban": 61.7,
+          "urban_sign": "",
+          "rural": 25.5,
+          "rural_sign": "",
+          "total": 51.6,
+          "total_sign": ""
+        },
+        {
+          "category": "Ensemble",
+          "urban": 40.1,
+          "urban_sign": "",
+          "rural": 21.8,
+          "rural_sign": "",
+          "total": 33.9,
+          "total_sign": ""
+        }
+      ],
+      "metadata": {
+        "champ": "Population active occupée de 15 ans et plus, Région de Souss-Massa",
+        "reference": "2024",
+        "unit": "%",
+        "source": "HCP (ENE)"
+      }
+    },
+    {
+      "title": "La durée effective moyenne de travail hebdomadaire par sexe et par milieu",
+      "startRow": 251,
+      "items": [
+        {
+          "category": "Masculin",
+          "urban": 47,
+          "urban_sign": "",
+          "rural": 43,
+          "rural_sign": "",
+          "total": 45,
+          "total_sign": ""
+        },
+        {
+          "category": "Féminin",
+          "urban": 40,
+          "urban_sign": "",
+          "rural": 30,
+          "rural_sign": "",
+          "total": 38,
+          "total_sign": ""
+        },
+        {
+          "category": "Ensemble",
+          "urban": 45,
+          "urban_sign": "",
+          "rural": 41,
+          "rural_sign": "",
+          "total": 44,
+          "total_sign": ""
+        }
+      ],
+      "metadata": {
+        "champ": "Population active occupée de 15 ans et plus, Région de Souss-Massa",
+        "reference": "2024",
+        "unit": "Heure",
+        "source": "HCP (ENE)"
+      }
+    },
+    {
+      "title": "Le volume hebdomadaire total d'heures effectives travaillées par sexe et par milieu",
+      "startRow": 262,
+      "items": [
+        {
+          "category": "Masculin",
+          "urban": 21,
+          "urban_sign": "",
+          "rural": 10,
+          "rural_sign": "",
+          "total": 31,
+          "total_sign": ""
+        },
+        {
+          "category": "Féminin",
+          "urban": 4,
+          "urban_sign": "",
+          "rural": 1,
+          "rural_sign": "",
+          "total": 5,
+          "total_sign": ""
+        },
+        {
+          "category": "Ensemble",
+          "urban": 25,
+          "urban_sign": "",
+          "rural": 11,
+          "rural_sign": "",
+          "total": 36,
+          "total_sign": ""
+        }
+      ],
+      "metadata": {
+        "champ": "Population active occupée de 15 ans et plus, Région de Souss-Massa",
+        "reference": "2024",
+        "unit": "Million d'heures",
+        "source": "HCP (ENE)"
+      }
+    },
+    {
+      "title": "Le type de contrat (4) des salariés par milieu",
+      "startRow": 273,
+      "items": [
+        {
+          "category": "CDI",
+          "urban": 29.7,
+          "urban_sign": "",
+          "rural": 19.7,
+          "rural_sign": "",
+          "total": 26.6,
+          "total_sign": ""
+        },
+        {
+          "category": "CDD",
+          "urban": 25.2,
+          "urban_sign": "",
+          "rural": 19.5,
+          "rural_sign": "",
+          "total": 23.4,
+          "total_sign": ""
+        },
+        {
+          "category": "Contrat verbal",
+          "urban": 33.1,
+          "urban_sign": "",
+          "rural": 39.3,
+          "rural_sign": "",
+          "total": 35,
+          "total_sign": ""
+        },
+        {
+          "category": "Aucun contrat",
+          "urban": 12,
+          "urban_sign": "",
+          "rural": 21.6,
+          "rural_sign": "",
+          "total": 14.9,
+          "total_sign": ""
+        },
+        {
+          "category": "Ensemble",
+          "urban": 100,
+          "urban_sign": "",
+          "rural": 100,
+          "rural_sign": "",
+          "total": 100,
+          "total_sign": ""
+        }
+      ],
+      "metadata": {
+        "champ": "Population active occupée salariée de 15 ans et plus, Région de Souss-Massa",
+        "reference": "2024",
+        "unit": "%",
+        "source": "HCP (ENE)"
+      }
+    },
+    {
+      "title": "Le taux de couverture des salariés par une assurance maladie liée à leur emploi, par sexe et par milieu",
+      "startRow": 286,
+      "items": [
+        {
+          "category": "Masculin",
+          "urban": 51.4,
+          "urban_sign": "",
+          "rural": 37.9,
+          "rural_sign": "",
+          "total": 46.8,
+          "total_sign": ""
+        },
+        {
+          "category": "Féminin",
+          "urban": 71.6,
+          "urban_sign": "",
+          "rural": 65,
+          "rural_sign": "ms",
+          "total": 70.6,
+          "total_sign": ""
+        },
+        {
+          "category": "Ensemble",
+          "urban": 55.7,
+          "urban_sign": "",
+          "rural": 40.3,
+          "rural_sign": "",
+          "total": 51,
+          "total_sign": ""
+        }
+      ],
+      "metadata": {
+        "champ": "Population active occupée salariée de 15 ans et plus, Région de Souss-Massa",
+        "reference": "2024",
+        "unit": "%",
+        "source": "HCP (ENE)"
+      }
+    },
+    {
+      "title": "Le taux de couverture des salariés par une assurance retraite liée à leur emploi, par sexe et par milieu",
+      "startRow": 297,
+      "items": [
+        {
+          "category": "Masculin",
+          "urban": 49.7,
+          "urban_sign": "",
+          "rural": 32,
+          "rural_sign": "",
+          "total": 43.7,
+          "total_sign": ""
+        },
+        {
+          "category": "Féminin",
+          "urban": 71.6,
+          "urban_sign": "",
+          "rural": 63.9,
+          "rural_sign": "ms",
+          "total": 70.4,
+          "total_sign": ""
+        },
+        {
+          "category": "Ensemble",
+          "urban": 54.4,
+          "urban_sign": "",
+          "rural": 34.8,
+          "rural_sign": "",
+          "total": 48.4,
+          "total_sign": ""
+        }
+      ],
+      "metadata": {
+        "champ": "Population active occupée salariée de 15 ans et plus, Région de Souss-Massa",
+        "reference": "2024",
+        "unit": "%",
+        "source": "HCP (ENE)"
+      }
+    },
+    {
+      "title": "Le taux de chômage par sexe et par milieu",
+      "startRow": 308,
+      "items": [
+        {
+          "category": "Masculin",
+          "urban": 11.5,
+          "urban_sign": "",
+          "rural": 6.5,
+          "rural_sign": "",
+          "total": 9.8,
+          "total_sign": ""
+        },
+        {
+          "category": "Féminin",
+          "urban": 26.5,
+          "urban_sign": "",
+          "rural": 12.2,
+          "rural_sign": "ms",
+          "total": 23,
+          "total_sign": ""
+        },
+        {
+          "category": "Ensemble",
+          "urban": 14.6,
+          "urban_sign": "",
+          "rural": 7.3,
+          "rural_sign": "",
+          "total": 12.3,
+          "total_sign": ""
+        }
+      ],
+      "metadata": {
+        "champ": "Population active de 15 ans et plus, Région de Souss-Massa",
+        "reference": "2024",
+        "unit": "%",
+        "source": "HCP (ENE)"
+      }
+    },
+    {
+      "title": "Le taux de chômage par âge (4) et par milieu",
+      "startRow": 319,
+      "items": [
+        {
+          "category": "15-24 ans",
+          "urban": 43.3,
+          "urban_sign": "",
+          "rural": 31.5,
+          "rural_sign": "",
+          "total": 39.3,
+          "total_sign": ""
+        },
+        {
+          "category": "25-34 ans",
+          "urban": 24.4,
+          "urban_sign": "",
+          "rural": 8.8,
+          "rural_sign": "ms",
+          "total": 20.3,
+          "total_sign": ""
+        },
+        {
+          "category": "35-44 ans",
+          "urban": 7.4,
+          "urban_sign": "",
+          "rural": null,
+          "rural_sign": "ps",
+          "total": 6.4,
+          "total_sign": ""
+        },
+        {
+          "category": "45 ans ou plus",
+          "urban": 3.4,
+          "urban_sign": "",
+          "rural": 3,
+          "rural_sign": "ms",
+          "total": 3.2,
+          "total_sign": ""
+        },
+        {
+          "category": "Ensemble",
+          "urban": 14.6,
+          "urban_sign": "",
+          "rural": 7.3,
+          "rural_sign": "",
+          "total": 12.3,
+          "total_sign": ""
+        }
+      ],
+      "metadata": {
+        "champ": "Population active de 15 ans et plus, Région de Souss-Massa",
+        "reference": "2024",
+        "unit": "%",
+        "source": "HCP (ENE)"
+      }
+    },
+    {
+      "title": "Le taux de chômage par diplôme (2) et par milieu",
+      "startRow": 332,
+      "items": [
+        {
+          "category": "Diplôme quelconque",
+          "urban": 19.8,
+          "urban_sign": "",
+          "rural": 12.6,
+          "rural_sign": "",
+          "total": 18.3,
+          "total_sign": ""
+        },
+        {
+          "category": "Aucun diplôme",
+          "urban": 4.9,
+          "urban_sign": "",
+          "rural": 4,
+          "rural_sign": "",
+          "total": 4.5,
+          "total_sign": ""
+        },
+        {
+          "category": "Ensemble",
+          "urban": 14.6,
+          "urban_sign": "",
+          "rural": 7.3,
+          "rural_sign": "",
+          "total": 12.3,
+          "total_sign": ""
+        }
+      ],
+      "metadata": {
+        "champ": "Population active de 15 ans et plus, Région de Souss-Massa",
+        "reference": "2024",
+        "unit": "%",
+        "source": "HCP (ENE)"
+      }
+    },
+    {
+      "title": "Le taux de chômage par diplôme (3) et par milieu",
+      "startRow": 343,
+      "items": [
+        {
+          "category": "Diplôme de niveau supérieur",
+          "urban": 26.5,
+          "urban_sign": "",
+          "rural": 24.8,
+          "rural_sign": "ms",
+          "total": 26.3,
+          "total_sign": ""
+        },
+        {
+          "category": "Diplôme de niveau moyen",
+          "urban": 15,
+          "urban_sign": "",
+          "rural": 9.3,
+          "rural_sign": "",
+          "total": 13.4,
+          "total_sign": ""
+        },
+        {
+          "category": "Aucun diplôme",
+          "urban": 4.9,
+          "urban_sign": "",
+          "rural": 4,
+          "rural_sign": "",
+          "total": 4.5,
+          "total_sign": ""
+        },
+        {
+          "category": "Ensemble",
+          "urban": 14.6,
+          "urban_sign": "",
+          "rural": 7.3,
+          "rural_sign": "",
+          "total": 12.3,
+          "total_sign": ""
+        }
+      ],
+      "metadata": {
+        "champ": "Population active de 15 ans et plus, Région de Souss-Massa",
+        "reference": "2024",
+        "unit": "%",
+        "source": "HCP (ENE)"
+      }
+    },
+    {
+      "title": "Le sexe des chômeurs par milieu",
+      "startRow": 355,
+      "items": [
+        {
+          "category": "Masculin",
+          "urban": 62.6,
+          "urban_sign": "",
+          "rural": 76.2,
+          "rural_sign": "ms",
+          "total": 65.2,
+          "total_sign": ""
+        },
+        {
+          "category": "Féminin",
+          "urban": 37.4,
+          "urban_sign": "",
+          "rural": 23.8,
+          "rural_sign": "ms",
+          "total": 34.8,
+          "total_sign": ""
+        },
+        {
+          "category": "Ensemble",
+          "urban": 100,
+          "urban_sign": "",
+          "rural": 100,
+          "rural_sign": "",
+          "total": 100,
+          "total_sign": ""
+        }
+      ],
+      "metadata": {
+        "champ": "Chômeurs, Région de Souss-Massa",
+        "reference": "2024",
+        "unit": "%",
+        "source": "HCP (ENE)"
+      }
+    },
+    {
+      "title": "L'âge (4) des chômeurs par milieu",
+      "startRow": 366,
+      "items": [
+        {
+          "category": "15-24 ans",
+          "urban": 25.9,
+          "urban_sign": "",
+          "rural": 41.1,
+          "rural_sign": "",
+          "total": 28.8,
+          "total_sign": ""
+        },
+        {
+          "category": "25-34 ans",
+          "urban": 52.6,
+          "urban_sign": "",
+          "rural": 28.3,
+          "rural_sign": "ms",
+          "total": 48,
+          "total_sign": ""
+        },
+        {
+          "category": "35-44 ans",
+          "urban": 14.1,
+          "urban_sign": "",
+          "rural": null,
+          "rural_sign": "ps",
+          "total": 13.9,
+          "total_sign": ""
+        },
+        {
+          "category": "45 ans ou plus",
+          "urban": 7.4,
+          "urban_sign": "",
+          "rural": 17.5,
+          "rural_sign": "ms",
+          "total": 9.3,
+          "total_sign": ""
+        },
+        {
+          "category": "Ensemble",
+          "urban": 100,
+          "urban_sign": "",
+          "rural": 100,
+          "rural_sign": "",
+          "total": 100,
+          "total_sign": ""
+        }
+      ],
+      "metadata": {
+        "champ": "Chômeurs, Région de Souss-Massa",
+        "reference": "2024",
+        "unit": "%",
+        "source": "HCP (ENE)"
+      }
+    },
+    {
+      "title": "Le diplôme (2) des chômeurs par milieu",
+      "startRow": 379,
+      "items": [
+        {
+          "category": "Diplôme quelconque",
+          "urban": 88.2,
+          "urban_sign": "",
+          "rural": 66.1,
+          "rural_sign": "",
+          "total": 84,
+          "total_sign": ""
+        },
+        {
+          "category": "Aucun diplôme",
+          "urban": 11.8,
+          "urban_sign": "",
+          "rural": 33.9,
+          "rural_sign": "",
+          "total": 16,
+          "total_sign": ""
+        },
+        {
+          "category": "Ensemble",
+          "urban": 100,
+          "urban_sign": "",
+          "rural": 100,
+          "rural_sign": "",
+          "total": 100,
+          "total_sign": ""
+        }
+      ],
+      "metadata": {
+        "champ": "Chômeurs, Région de Souss-Massa",
+        "reference": "2024",
+        "unit": "%",
+        "source": "HCP (ENE)"
+      }
+    },
+    {
+      "title": "Le diplôme (3) des chômeurs par milieu",
+      "startRow": 390,
+      "items": [
+        {
+          "category": "Diplôme de niveau supérieur",
+          "urban": 49.8,
+          "urban_sign": "",
+          "rural": 27.6,
+          "rural_sign": "ms",
+          "total": 45.6,
+          "total_sign": ""
+        },
+        {
+          "category": "Diplôme de niveau moyen",
+          "urban": 38.3,
+          "urban_sign": "",
+          "rural": 38.5,
+          "rural_sign": "",
+          "total": 38.4,
+          "total_sign": ""
+        },
+        {
+          "category": "Aucun diplôme",
+          "urban": 11.8,
+          "urban_sign": "",
+          "rural": 33.9,
+          "rural_sign": "",
+          "total": 16,
+          "total_sign": ""
+        },
+        {
+          "category": "Ensemble",
+          "urban": 100,
+          "urban_sign": "",
+          "rural": 100,
+          "rural_sign": "",
+          "total": 100,
+          "total_sign": ""
+        }
+      ],
+      "metadata": {
+        "champ": "Chômeurs, Région de Souss-Massa",
+        "reference": "2024",
+        "unit": "%",
+        "source": "HCP (ENE)"
+      }
+    },
+    {
+      "title": "Le rang de chômage par milieu",
+      "startRow": 402,
+      "items": [
+        {
+          "category": "Chômeur ayant déjà travaillé",
+          "urban": 56.5,
+          "urban_sign": "",
+          "rural": 60.2,
+          "rural_sign": "",
+          "total": 57.2,
+          "total_sign": ""
+        },
+        {
+          "category": "Chômeur n'ayant jamais travaillé",
+          "urban": 43.5,
+          "urban_sign": "",
+          "rural": 39.8,
+          "rural_sign": "",
+          "total": 42.8,
+          "total_sign": ""
+        },
+        {
+          "category": "Ensemble",
+          "urban": 100,
+          "urban_sign": "",
+          "rural": 100,
+          "rural_sign": "",
+          "total": 100,
+          "total_sign": ""
+        }
+      ],
+      "metadata": {
+        "champ": "Chômeurs, Région de Souss-Massa",
+        "reference": "2024",
+        "unit": "%",
+        "source": "HCP (ENE)"
+      }
+    },
+    {
+      "title": "La durée de chômage (2) par milieu",
+      "startRow": 413,
+      "items": [
+        {
+          "category": "Moins d'une année",
+          "urban": 45,
+          "urban_sign": "",
+          "rural": 56.3,
+          "rural_sign": "",
+          "total": 47.1,
+          "total_sign": ""
+        },
+        {
+          "category": "Une année ou plus",
+          "urban": 55,
+          "urban_sign": "",
+          "rural": 43.7,
+          "rural_sign": "",
+          "total": 52.9,
+          "total_sign": ""
+        },
+        {
+          "category": "Ensemble",
+          "urban": 100,
+          "urban_sign": "",
+          "rural": 100,
+          "rural_sign": "",
+          "total": 100,
+          "total_sign": ""
+        }
+      ],
+      "metadata": {
+        "champ": "Chômeurs, Région de Souss-Massa",
+        "reference": "2024",
+        "unit": "%",
+        "source": "HCP (ENE)"
+      }
+    },
+    {
+      "title": "La raison de recherche d'emploi (5) des chômeurs par milieu",
+      "startRow": 424,
+      "items": [
+        {
+          "category": "Cessation d'activité de l'établissement / Licenciement",
+          "urban": 23.8,
+          "urban_sign": "",
+          "rural": 26.2,
+          "rural_sign": "ms",
+          "total": 24.3,
+          "total_sign": ""
+        },
+        {
+          "category": "Cessation d'une activité indépendante/saisonnière",
+          "urban": 7.6,
+          "urban_sign": "ms",
+          "rural": 14.1,
+          "rural_sign": "ms",
+          "total": 8.8,
+          "total_sign": ""
+        },
+        {
+          "category": "Abandon d'un emploi non rémunérateur",
+          "urban": 24.9,
+          "urban_sign": "",
+          "rural": 19.8,
+          "rural_sign": "ms",
+          "total": 23.9,
+          "total_sign": ""
+        },
+        {
+          "category": "Achèvement/Arrêt des études ou d'une formation",
+          "urban": 32.7,
+          "urban_sign": "",
+          "rural": 30.2,
+          "rural_sign": "",
+          "total": 32.3,
+          "total_sign": ""
+        },
+        {
+          "category": "Autre",
+          "urban": 11,
+          "urban_sign": "",
+          "rural": 9.6,
+          "rural_sign": "",
+          "total": 10.7,
+          "total_sign": ""
+        },
+        {
+          "category": "Ensemble",
+          "urban": 100,
+          "urban_sign": "",
+          "rural": 100,
+          "rural_sign": "",
+          "total": 100,
+          "total_sign": ""
+        }
+      ],
+      "metadata": {
+        "champ": "Chômeurs, Région de Souss-Massa",
+        "reference": "2024",
+        "unit": "%",
+        "source": "HCP (ENE)"
+      }
+    },
+    {
+      "title": "Le mode de recherche d'emploi (4) des chômeurs par milieu",
+      "startRow": 438,
+      "items": [
+        {
+          "category": "Prise de contact avec des employeurs directement",
+          "urban": 25,
+          "urban_sign": "",
+          "rural": 17.6,
+          "rural_sign": "ms",
+          "total": 23.6,
+          "total_sign": ""
+        },
+        {
+          "category": "Recours à la famille, aux amis, aux connaissances",
+          "urban": 38.6,
+          "urban_sign": "",
+          "rural": 57.3,
+          "rural_sign": "",
+          "total": 42.1,
+          "total_sign": ""
+        },
+        {
+          "category": "Concours / Agences d'emploi / Annonces d'offre d'emploi / Demandes d'emploi / Internet",
+          "urban": 31.3,
+          "urban_sign": "",
+          "rural": 20.4,
+          "rural_sign": "ms",
+          "total": 29.2,
+          "total_sign": ""
+        },
+        {
+          "category": "Autre",
+          "urban": 5.1,
+          "urban_sign": "",
+          "rural": 4.8,
+          "rural_sign": "",
+          "total": 5,
+          "total_sign": ""
+        },
+        {
+          "category": "Ensemble",
+          "urban": 100,
+          "urban_sign": "",
+          "rural": 100,
+          "rural_sign": "",
+          "total": 100,
+          "total_sign": ""
+        }
+      ],
+      "metadata": {
+        "champ": "Chômeurs, Région de Souss-Massa",
+        "reference": "2024",
+        "unit": "%",
+        "source": "HCP (ENE)"
+      }
+    },
+    {
+      "title": "Le statut professionnel recherché (3) par les chômeurs par milieu",
+      "startRow": 451,
+      "items": [
+        {
+          "category": "Salarié",
+          "urban": 77.6,
+          "urban_sign": "",
+          "rural": 85.6,
+          "rural_sign": "ms",
+          "total": 79.1,
+          "total_sign": ""
+        },
+        {
+          "category": "Auto-employé",
+          "urban": 5.8,
+          "urban_sign": "ms",
+          "rural": null,
+          "rural_sign": "ps",
+          "total": 5.5,
+          "total_sign": "ms"
+        },
+        {
+          "category": "Indifféremment l'un ou l'autre",
+          "urban": 16.6,
+          "urban_sign": "",
+          "rural": null,
+          "rural_sign": "ps",
+          "total": 15.4,
+          "total_sign": ""
+        },
+        {
+          "category": "Ensemble",
+          "urban": 100,
+          "urban_sign": "",
+          "rural": 100,
+          "rural_sign": "",
+          "total": 100,
+          "total_sign": ""
+        }
+      ],
+      "metadata": {
+        "champ": "Chômeurs, Région de Souss-Massa",
+        "reference": "2024",
+        "unit": "%",
+        "source": "HCP (ENE)"
+      }
+    },
+    {
+      "title": "Le taux de sous-emploi par sexe et par milieu",
+      "startRow": 463,
+      "items": [
+        {
+          "category": "Masculin",
+          "urban": 7.2,
+          "urban_sign": "",
+          "rural": 9.4,
+          "rural_sign": "",
+          "total": 7.9,
+          "total_sign": ""
+        },
+        {
+          "category": "Féminin",
+          "urban": 8.2,
+          "urban_sign": "",
+          "rural": null,
+          "rural_sign": "ps",
+          "total": 7.3,
+          "total_sign": ""
+        },
+        {
+          "category": "Ensemble",
+          "urban": 7.4,
+          "urban_sign": "",
+          "rural": 8.7,
+          "rural_sign": "",
+          "total": 7.8,
+          "total_sign": ""
+        }
+      ],
+      "metadata": {
+        "champ": "Population active occupée de 15 ans et plus, Région de Souss-Massa",
+        "reference": "2024",
+        "unit": "%",
+        "source": "HCP (ENE)"
+      }
+    },
+    {
+      "title": "Le taux de sous-emploi par âge (4) et par milieu",
+      "startRow": 474,
+      "items": [
+        {
+          "category": "15-24 ans",
+          "urban": 13.9,
+          "urban_sign": "ms",
+          "rural": 16.3,
+          "rural_sign": "ms",
+          "total": 14.8,
+          "total_sign": ""
+        },
+        {
+          "category": "25-34 ans",
+          "urban": 11.7,
+          "urban_sign": "",
+          "rural": 15.1,
+          "rural_sign": "",
+          "total": 12.7,
+          "total_sign": ""
+        },
+        {
+          "category": "35-44 ans",
+          "urban": 7.1,
+          "urban_sign": "",
+          "rural": 8.2,
+          "rural_sign": "ms",
+          "total": 7.4,
+          "total_sign": ""
+        },
+        {
+          "category": "45 ans ou plus",
+          "urban": 3.3,
+          "urban_sign": "",
+          "rural": 4.5,
+          "rural_sign": "",
+          "total": 3.7,
+          "total_sign": ""
+        },
+        {
+          "category": "Ensemble",
+          "urban": 7.4,
+          "urban_sign": "",
+          "rural": 8.7,
+          "rural_sign": "",
+          "total": 7.8,
+          "total_sign": ""
+        }
+      ],
+      "metadata": {
+        "champ": "Population active occupée de 15 ans et plus, Région de Souss-Massa",
+        "reference": "2024",
+        "unit": "%",
+        "source": "HCP (ENE)"
+      }
+    },
+    {
+      "title": "Le taux de sous-emploi par diplôme (2) et par milieu",
+      "startRow": 487,
+      "items": [
+        {
+          "category": "Diplôme quelconque",
+          "urban": 8.3,
+          "urban_sign": "",
+          "rural": 12,
+          "rural_sign": "",
+          "total": 9.1,
+          "total_sign": ""
+        },
+        {
+          "category": "Aucun diplôme",
+          "urban": 6,
+          "urban_sign": "",
+          "rural": 6.9,
+          "rural_sign": "",
+          "total": 6.4,
+          "total_sign": ""
+        },
+        {
+          "category": "Ensemble",
+          "urban": 7.4,
+          "urban_sign": "",
+          "rural": 8.7,
+          "rural_sign": "",
+          "total": 7.8,
+          "total_sign": ""
+        }
+      ],
+      "metadata": {
+        "champ": "Population active occupée de 15 ans et plus, Région de Souss-Massa",
+        "reference": "2024",
+        "unit": "%",
+        "source": "HCP (ENE)"
+      }
+    },
+    {
+      "title": "Le taux de sous-emploi par diplôme (3) et par milieu",
+      "startRow": 498,
+      "items": [
+        {
+          "category": "Diplôme de niveau supérieur",
+          "urban": 11.4,
+          "urban_sign": "",
+          "rural": null,
+          "rural_sign": "ps",
+          "total": 11.9,
+          "total_sign": ""
+        },
+        {
+          "category": "Diplôme de niveau moyen",
+          "urban": 6.2,
+          "urban_sign": "",
+          "rural": 11.2,
+          "rural_sign": "",
+          "total": 7.7,
+          "total_sign": ""
+        },
+        {
+          "category": "Aucun diplôme",
+          "urban": 6,
+          "urban_sign": "",
+          "rural": 6.9,
+          "rural_sign": "",
+          "total": 6.4,
+          "total_sign": ""
+        },
+        {
+          "category": "Ensemble",
+          "urban": 7.4,
+          "urban_sign": "",
+          "rural": 8.7,
+          "rural_sign": "",
+          "total": 7.8,
+          "total_sign": ""
+        }
+      ],
+      "metadata": {
+        "champ": "Population active occupée de 15 ans et plus, Région de Souss-Massa",
+        "reference": "2024",
+        "unit": "%",
+        "source": "HCP (ENE)"
+      }
+    },
+    {
+      "title": "Le taux de sous-emploi par secteur d'activité (4) et par milieu",
+      "startRow": 510,
+      "items": [
+        {
+          "category": "Agriculture, sylviculture, pêche",
+          "urban": 6.5,
+          "urban_sign": "ms",
+          "rural": 8.1,
+          "rural_sign": "",
+          "total": 7.6,
+          "total_sign": ""
+        },
+        {
+          "category": "Industrie (y compris artisanat)",
+          "urban": 5.5,
+          "urban_sign": "ms",
+          "rural": null,
+          "rural_sign": "ps",
+          "total": 5,
+          "total_sign": "ms"
+        },
+        {
+          "category": "BTP",
+          "urban": 11,
+          "urban_sign": "ms",
+          "rural": 16.1,
+          "rural_sign": "",
+          "total": 13,
+          "total_sign": ""
+        },
+        {
+          "category": "Services",
+          "urban": 7.2,
+          "urban_sign": "",
+          "rural": 6.8,
+          "rural_sign": "ms",
+          "total": 7.2,
+          "total_sign": ""
+        },
+        {
+          "category": "Ensemble",
+          "urban": 7.4,
+          "urban_sign": "",
+          "rural": 8.7,
+          "rural_sign": "",
+          "total": 7.8,
+          "total_sign": ""
+        }
+      ],
+      "metadata": {
+        "champ": "Population active occupée de 15 ans et plus, Région de Souss-Massa",
+        "reference": "2024",
+        "unit": "%",
+        "source": "HCP (ENE)"
+      }
+    },
+    {
+      "title": "Le taux de sous-emploi par statut professionnel (2) et par milieu",
+      "startRow": 523,
+      "items": [
+        {
+          "category": "Employé rémunéré",
+          "urban": 7.3,
+          "urban_sign": "",
+          "rural": 8.6,
+          "rural_sign": "",
+          "total": 7.7,
+          "total_sign": ""
+        },
+        {
+          "category": "Employé non rémunéré",
+          "urban": null,
+          "urban_sign": "ps",
+          "rural": null,
+          "rural_sign": "ps",
+          "total": null,
+          "total_sign": "ps"
+        },
+        {
+          "category": "Ensemble",
+          "urban": 7.4,
+          "urban_sign": "",
+          "rural": 8.7,
+          "rural_sign": "",
+          "total": 7.8,
+          "total_sign": ""
+        }
+      ],
+      "metadata": {
+        "champ": "Population active occupée de 15 ans et plus, Région de Souss-Massa",
+        "reference": "2024",
+        "unit": "%",
+        "source": "HCP (ENE)"
+      }
+    },
+    {
+      "title": "Le taux de sous-emploi par statut professionnel (3) et par milieu",
+      "startRow": 534,
+      "items": [
+        {
+          "category": "Salarié",
+          "urban": 8.1,
+          "urban_sign": "",
+          "rural": 10.7,
+          "rural_sign": "",
+          "total": 8.9,
+          "total_sign": ""
+        },
+        {
+          "category": "Auto-employé",
+          "urban": 5.3,
+          "urban_sign": "",
+          "rural": 5,
+          "rural_sign": "ms",
+          "total": 5.2,
+          "total_sign": ""
+        },
+        {
+          "category": "Employé non rémunéré",
+          "urban": null,
+          "urban_sign": "ps",
+          "rural": null,
+          "rural_sign": "ps",
+          "total": null,
+          "total_sign": "ps"
+        },
+        {
+          "category": "Ensemble",
+          "urban": 7.4,
+          "urban_sign": "",
+          "rural": 8.7,
+          "rural_sign": "",
+          "total": 7.8,
+          "total_sign": ""
+        }
+      ],
+      "metadata": {
+        "champ": "Population active occupée de 15 ans et plus, Région de Souss-Massa",
+        "reference": "2024",
+        "unit": "%",
+        "source": "HCP (ENE)"
+      }
+    },
+    {
+      "title": "Le sexe des travailleurs en sous-emploi par milieu",
+      "startRow": 546,
+      "items": [
+        {
+          "category": "Masculin",
+          "urban": 80.2,
+          "urban_sign": "",
+          "rural": null,
+          "rural_sign": "ps+",
+          "total": 84.9,
+          "total_sign": ""
+        },
+        {
+          "category": "Féminin",
+          "urban": 19.8,
+          "urban_sign": "",
+          "rural": null,
+          "rural_sign": "ps",
+          "total": 15.1,
+          "total_sign": ""
+        },
+        {
+          "category": "Ensemble",
+          "urban": 100,
+          "urban_sign": "",
+          "rural": 100,
+          "rural_sign": "",
+          "total": 100,
+          "total_sign": ""
+        }
+      ],
+      "metadata": {
+        "champ": "Population active occupée en sous-emploi de 15 ans et plus, Région de Souss-Massa",
+        "reference": "2024",
+        "unit": "%",
+        "source": "HCP (ENE)"
+      }
+    }
+  ]
+}

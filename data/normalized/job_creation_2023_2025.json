@@ -1,0 +1,245 @@
+{
+  "metadata": {
+    "source": "HCP (RGPH 2024 & ENE 2023-2025)",
+    "description": "Création nette d’emplois et effectifs par province 2023-2025",
+    "years": [
+      2023,
+      2024,
+      2025
+    ]
+  },
+  "territories": [
+    {
+      "code": "MAROC",
+      "id": "MAROC",
+      "name": "Maroc",
+      "name_ar": "المغرب",
+      "type": "national",
+      "occupied_pop_rgph_2024": 5938508,
+      "pop_15_plus": {
+        "y2023": 17093639,
+        "y2024": 17238935,
+        "y2025_estim": 17385466,
+        "growth_rate_24_25": 0.0085
+      },
+      "employment_rate": {
+        "y2023": 38,
+        "y2024": 37.7,
+        "y2025": 37.8
+      },
+      "employment_count": {
+        "y2023": 6495583,
+        "y2024": 6499078,
+        "y2025": 6571706
+      },
+      "net_jobs_created": {
+        "diff_2023_2024": 3495,
+        "diff_2024_2025": 72628,
+        "total_2023_2025": 76123
+      }
+    },
+    {
+      "code": "SM",
+      "id": "SM",
+      "name": "Souss-Massa",
+      "name_ar": "سوس ماسة",
+      "type": "region",
+      "occupied_pop_rgph_2024": 479700,
+      "pop_15_plus": {
+        "y2023": 1319422,
+        "y2024": 1335387,
+        "y2025_estim": 1351545,
+        "growth_rate_24_25": 0.0121
+      },
+      "employment_rate": {
+        "y2023": 33.7,
+        "y2024": 35.4,
+        "y2025": 36
+      },
+      "employment_count": {
+        "y2023": 444645,
+        "y2024": 472727,
+        "y2025": 486556
+      },
+      "net_jobs_created": {
+        "diff_2023_2024": 28082,
+        "diff_2024_2025": 13829,
+        "total_2023_2025": 41911
+      }
+    },
+    {
+      "code": "AIO",
+      "id": "AIO",
+      "name": "Agadir-Ida-Ou-Tanane",
+      "name_ar": "أكادير إداوتنان",
+      "type": "province",
+      "occupied_pop_rgph_2024": 173206,
+      "pop_15_plus": {
+        "y2023": 466106,
+        "y2024": 474729,
+        "y2025_estim": 483511,
+        "growth_rate_24_25": 0.0185
+      },
+      "employment_rate": {
+        "y2023": 33.1,
+        "y2024": 34.8,
+        "y2025": 35.3
+      },
+      "employment_count": {
+        "y2023": 154281,
+        "y2024": 165206,
+        "y2025": 170679
+      },
+      "net_jobs_created": {
+        "diff_2023_2024": 10925,
+        "diff_2024_2025": 5473,
+        "total_2023_2025": 16398
+      }
+    },
+    {
+      "code": "CAB",
+      "id": "CAB",
+      "name": "Chtouka-Ait Baha",
+      "name_ar": "شتوكة آيت باها",
+      "type": "province",
+      "occupied_pop_rgph_2024": 54617,
+      "pop_15_plus": {
+        "y2023": 118367,
+        "y2024": 121788,
+        "y2025_estim": 125308,
+        "growth_rate_24_25": 0.0289
+      },
+      "employment_rate": {
+        "y2023": 38.1,
+        "y2024": 39.9,
+        "y2025": 40.8
+      },
+      "employment_count": {
+        "y2023": 45098,
+        "y2024": 48593,
+        "y2025": 51126
+      },
+      "net_jobs_created": {
+        "diff_2023_2024": 3495,
+        "diff_2024_2025": 2533,
+        "total_2023_2025": 6028
+      }
+    },
+    {
+      "code": "IAM",
+      "id": "IAM",
+      "name": "Inezgane-Ait Melloul",
+      "name_ar": "إنزكان آيت ملول",
+      "type": "prefecture",
+      "occupied_pop_rgph_2024": null,
+      "pop_15_plus": {
+        "y2023": 456035,
+        "y2024": 463514,
+        "y2025_estim": 471116,
+        "growth_rate_24_25": 0.0164
+      },
+      "employment_rate": {
+        "y2023": 35.1,
+        "y2024": 36.5,
+        "y2025": 37
+      },
+      "employment_count": {
+        "y2023": 160068,
+        "y2024": 169183,
+        "y2025": 174313
+      },
+      "net_jobs_created": {
+        "diff_2023_2024": 9115,
+        "diff_2024_2025": 5130,
+        "total_2023_2025": 14245
+      }
+    },
+    {
+      "code": "TRDNT",
+      "id": "TRDNT",
+      "name": "Taroudannt",
+      "name_ar": "تارودانت",
+      "type": "province",
+      "occupied_pop_rgph_2024": null,
+      "pop_15_plus": {
+        "y2023": 625653,
+        "y2024": 627092,
+        "y2025_estim": 628534,
+        "growth_rate_24_25": 0.0023
+      },
+      "employment_rate": {
+        "y2023": 33.2,
+        "y2024": 35.1,
+        "y2025": 35.8
+      },
+      "employment_count": {
+        "y2023": 207717,
+        "y2024": 220109,
+        "y2025": 225015
+      },
+      "net_jobs_created": {
+        "diff_2023_2024": 12392,
+        "diff_2024_2025": 4906,
+        "total_2023_2025": 17298
+      }
+    },
+    {
+      "code": "TIZ",
+      "id": "TIZ",
+      "name": "Tiznit",
+      "name_ar": "تيزنيت",
+      "type": "province",
+      "occupied_pop_rgph_2024": null,
+      "pop_15_plus": {
+        "y2023": 152194,
+        "y2024": 151540,
+        "y2025_estim": 150888,
+        "growth_rate_24_25": -0.0043
+      },
+      "employment_rate": {
+        "y2023": 29.1,
+        "y2024": 28.3,
+        "y2025": 29
+      },
+      "employment_count": {
+        "y2023": 44288,
+        "y2024": 42886,
+        "y2025": 43758
+      },
+      "net_jobs_created": {
+        "diff_2023_2024": -1402,
+        "diff_2024_2025": 872,
+        "total_2023_2025": -530
+      }
+    },
+    {
+      "code": "TATA",
+      "id": "TATA",
+      "name": "Tata",
+      "name_ar": "طاطا",
+      "type": "province",
+      "occupied_pop_rgph_2024": null,
+      "pop_15_plus": {
+        "y2023": 78786,
+        "y2024": 78368,
+        "y2025_estim": 77953,
+        "growth_rate_24_25": -0.0053
+      },
+      "employment_rate": {
+        "y2023": 26.1,
+        "y2024": 30.9,
+        "y2025": 31.6
+      },
+      "employment_count": {
+        "y2023": 20563,
+        "y2024": 24216,
+        "y2025": 24633
+      },
+      "net_jobs_created": {
+        "diff_2023_2024": 3653,
+        "diff_2024_2025": 417,
+        "total_2023_2025": 4070
+      }
+    }
+  ]
+}

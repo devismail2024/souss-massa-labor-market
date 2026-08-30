@@ -1,0 +1,172 @@
+{
+  "metadata": {
+    "year": 2023,
+    "scope": "Population de 15 ans et plus (Active pour chômage)",
+    "unit": "%",
+    "source": "HCP (ENE 2023)"
+  },
+  "provinces": {
+    "Agadir-Ida-Ou-Tanane": {
+      "name": "Agadir-Ida-Ou-Tanane",
+      "activity_rate": {
+        "urban": 39.7,
+        "urban_sign": "",
+        "rural": 36.6,
+        "rural_sign": "",
+        "total": 39.4,
+        "total_sign": ""
+      },
+      "employment_rate": {
+        "urban": 33,
+        "urban_sign": "",
+        "rural": 33.9,
+        "rural_sign": "",
+        "total": 33.1,
+        "total_sign": ""
+      },
+      "unemployment_rate": {
+        "urban": 16.9,
+        "urban_sign": "",
+        "rural": null,
+        "rural_sign": "ps",
+        "total": 15.9,
+        "total_sign": ""
+      }
+    },
+    "Chtouka-Ait Baha": {
+      "name": "Chtouka-Ait Baha",
+      "activity_rate": {
+        "urban": 46.9,
+        "urban_sign": "",
+        "rural": 40.5,
+        "rural_sign": "",
+        "total": 42.8,
+        "total_sign": ""
+      },
+      "employment_rate": {
+        "urban": 41.7,
+        "urban_sign": "",
+        "rural": 36.2,
+        "rural_sign": "",
+        "total": 38.1,
+        "total_sign": ""
+      },
+      "unemployment_rate": {
+        "urban": 11.2,
+        "urban_sign": "ms",
+        "rural": 10.8,
+        "rural_sign": "",
+        "total": 11,
+        "total_sign": ""
+      }
+    },
+    "Inezgane-Ait Melloul": {
+      "name": "Inezgane-Ait Melloul",
+      "activity_rate": {
+        "urban": 41.9,
+        "urban_sign": "",
+        "rural": 38.5,
+        "rural_sign": "",
+        "total": 41.7,
+        "total_sign": ""
+      },
+      "employment_rate": {
+        "urban": 35.2,
+        "urban_sign": "",
+        "rural": 32.6,
+        "rural_sign": "",
+        "total": 35.1,
+        "total_sign": ""
+      },
+      "unemployment_rate": {
+        "urban": 15.8,
+        "urban_sign": "",
+        "rural": null,
+        "rural_sign": "ps",
+        "total": 15.8,
+        "total_sign": ""
+      }
+    },
+    "Taroudannt": {
+      "name": "Taroudannt",
+      "activity_rate": {
+        "urban": 38.9,
+        "urban_sign": "",
+        "rural": 36.3,
+        "rural_sign": "",
+        "total": 37.3,
+        "total_sign": ""
+      },
+      "employment_rate": {
+        "urban": 32.9,
+        "urban_sign": "",
+        "rural": 33.3,
+        "rural_sign": "",
+        "total": 33.2,
+        "total_sign": ""
+      },
+      "unemployment_rate": {
+        "urban": 15.4,
+        "urban_sign": "",
+        "rural": 8.3,
+        "rural_sign": "",
+        "total": 11,
+        "total_sign": ""
+      }
+    },
+    "Tata": {
+      "name": "Tata",
+      "activity_rate": {
+        "urban": 39.5,
+        "urban_sign": "",
+        "rural": 24.1,
+        "rural_sign": "",
+        "total": 30.5,
+        "total_sign": ""
+      },
+      "employment_rate": {
+        "urban": 33.6,
+        "urban_sign": "",
+        "rural": 20.8,
+        "rural_sign": "",
+        "total": 26.1,
+        "total_sign": ""
+      },
+      "unemployment_rate": {
+        "urban": null,
+        "urban_sign": "ps",
+        "rural": null,
+        "rural_sign": "ps",
+        "total": 14.5,
+        "total_sign": "ms"
+      }
+    },
+    "Tiznit": {
+      "name": "Tiznit",
+      "activity_rate": {
+        "urban": 37.5,
+        "urban_sign": "",
+        "rural": 28.4,
+        "rural_sign": "",
+        "total": 32.6,
+        "total_sign": ""
+      },
+      "employment_rate": {
+        "urban": 33.1,
+        "urban_sign": "",
+        "rural": 25.7,
+        "rural_sign": "",
+        "total": 29.1,
+        "total_sign": ""
+      },
+      "unemployment_rate": {
+        "urban": null,
+        "urban_sign": "ps",
+        "rural": null,
+        "rural_sign": "ps",
+        "total": 10.6,
+        "total_sign": "ms"
+      }
+    }
+  }
+}

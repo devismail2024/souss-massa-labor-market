@@ -1,0 +1,142 @@
+{
+  "notations": {
+    ".": {
+      "label": "Indisponible",
+      "description": "Donnée non disponible pour cette combinaison"
+    },
+    "…": {
+      "label": "Sans objet",
+      "description": "N’ayant pas lieu de figurer"
+    },
+    "ps": {
+      "label": "Peu significatif",
+      "description": "Résultat trop peu significatif pour être utilisé (échantillon trop réduit ou phénomène rare)"
+    },
+    "ms": {
+      "label": "Moyennement significatif",
+      "description": "Résultat moyennement significatif, à utiliser avec prudence"
+    }
+  },
+  "sources": [
+    {
+      "id": "ene_2019_2024",
+      "name": "Enquête Nationale sur l’Emploi (2019-2024)",
+      "filename": "ENE-Indicateurs désagrégés 2019-2024- Région #09 -07052025.xlsx",
+      "institution": "Haut-Commissariat au Plan (HCP) - Direction Régionale de Souss-Massa",
+      "coverage": "Région Souss-Massa (Urbain, Rural, Ensemble), 2019-2024",
+      "description": "Série temporelle harmonisée des indicateurs d’activité, d’emploi, de chômage, conditions de travail et caractéristiques sociodémographiques."
+    },
+    {
+      "id": "key_figures_2025",
+      "name": "Chiffres clés détaillés 2025 - Région Souss-Massa",
+      "filename": "2025 - Chiffres clés détaillés - Région.xlsx",
+      "institution": "Haut-Commissariat au Plan (HCP)",
+      "coverage": "Région Souss-Massa, 2025",
+      "description": "Derniers chiffres annuels 2025 consolidés sur l’activité, l’emploi, le chômage, les secteurs et le sous-emploi."
+    },
+    {
+      "id": "provincial_2023",
+      "name": "Indicateurs clés par province 2023 - Sous-milieu",
+      "filename": "2023 - Indicateurs clés par province - SOUS MILIEU.xlsx",
+      "institution": "Haut-Commissariat au Plan (HCP)",
+      "coverage": "6 Provinces et Préfectures de Souss-Massa, 2023",
+      "description": "Taux d’activité, d’emploi et de chômage désagrégés par milieu urbain et rural pour chaque province."
+    },
+    {
+      "id": "job_creation_2023_2025",
+      "name": "Emplois créés par province 2023-2025",
+      "filename": "emploi crées par provinces 23-24-25.xlsx",
+      "institution": "Haut-Commissariat au Plan (RGPH 2024 & ENE 2023-2025)",
+      "coverage": "Provinces de Souss-Massa, Région et Total Maroc, 2023-2025",
+      "description": "Population de 15 ans et plus (RGPH 2024), taux d’emploi, population active occupée et créations nettes d’emplois annuelles et cumulées."
+    },
+    {
+      "id": "detailed_2024",
+      "name": "Indicateurs désagrégés détaillés 2024",
+      "filename": "2024 - Indicateurs désagrégés détaillés - Région.xlsx",
+      "institution": "Haut-Commissariat au Plan (HCP)",
+      "coverage": "Région Souss-Massa, 2024",
+      "description": "48 tableaux détaillés sur les conditions de travail, la protection sociale (AMO, CNSS/retraite), les types de contrats et les caractéristiques du chômage."
+    }
+  ],
+  "territories": [
+    {
+      "id": "AIO",
+      "code": "AIO",
+      "name": "Agadir-Ida-Ou-Tanane",
+      "name_ar": "أكادير إداوتنان",
+      "type": "Préfecture",
+      "capital": "Agadir",
+      "rgph_pop_15_2024": 474729,
+      "employment_rate_2025": 35.3,
+      "employment_count_2025": 170679,
+      "net_jobs_2023_2025": 16398,
+      "description": "Pôle urbain, administratif, touristique et commercial majeur de la région."
+    },
+    {
+      "id": "IAM",
+      "code": "IAM",
+      "name": "Inezgane-Ait Melloul",
+      "name_ar": "إنزكان آيت ملول",
+      "type": "Préfecture",
+      "capital": "Inezgane",
+      "rgph_pop_15_2024": 463514,
+      "employment_rate_2025": 37,
+      "employment_count_2025": 174313,
+      "net_jobs_2023_2025": 14245,
+      "description": "Carrefour commercial et logistique à forte densité démographique et économique."
+    },
+    {
+      "id": "CAB",
+      "code": "CAB",
+      "name": "Chtouka-Ait Baha",
+      "name_ar": "شتوكة آيت باها",
+      "type": "Province",
+      "capital": "Biougra",
+      "rgph_pop_15_2024": 121788,
+      "employment_rate_2025": 40.8,
+      "employment_count_2025": 51126,
+      "net_jobs_2023_2025": 6028,
+      "description": "Cœur agro-industriel de la plaine du Souss et zone de cultures primeurs exportatrices."
+    },
+    {
+      "id": "TRDNT",
+      "code": "TRDNT",
+      "name": "Taroudannt",
+      "name_ar": "تارودانت",
+      "type": "Province",
+      "capital": "Taroudannt",
+      "rgph_pop_15_2024": 627092,
+      "employment_rate_2025": 35.8,
+      "employment_count_2025": 225015,
+      "net_jobs_2023_2025": 17298,
+      "description": "Plus vaste province de la région, combinant plaine agricole fertile et zones montagnardes de l’Atlas."
+    },
+    {
+      "id": "TIZ",
+      "code": "TIZ",
+      "name": "Tiznit",
+      "name_ar": "تيزنيت",
+      "type": "Province",
+      "capital": "Tiznit",
+      "rgph_pop_15_2024": 151540,
+      "employment_rate_2025": 29,
+      "employment_count_2025": 43758,
+      "net_jobs_2023_2025": -530,
+      "description": "Zone côtière et piémont de l’Anti-Atlas, pôle artisanal (orfèvrerie) et arboricole."
+    },
+    {
+      "id": "TATA",
+      "code": "TATA",
+      "name": "Tata",
+      "name_ar": "طاطا",
+      "type": "Province",
+      "capital": "Tata",
+      "rgph_pop_15_2024": 78368,
+      "employment_rate_2025": 31.6,
+      "employment_count_2025": 24633,
+      "net_jobs_2023_2025": 4070,
+      "description": "Province oasienne présaharienne à faible densité et spécificités agropastorales."
+    }
+  ]
+}
